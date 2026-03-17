@@ -1,0 +1,21 @@
+id,ward,lat,lng,severity,status,area_sqm,detected_by,date,disease_risk
+1,Dharavi Colony,28.6692,77.2431,High,Open,850,Satellite,2024-03-01,Dengue
+2,Seemapuri,28.6812,77.3124,High,Open,920,Satellite,2024-03-02,Cholera
+3,Bhalswa,28.7423,77.1734,High,Open,1100,Satellite,2024-03-03,Malaria
+4,Okhla Phase 2,28.5355,77.2718,Medium,Assigned,340,Citizen,2024-03-04,Dengue
+5,Jahangirpuri,28.7289,77.1678,High,Open,780,Satellite,2024-03-05,Cholera
+6,Sangam Vihar,28.4987,77.2134,Medium,Open,430,Citizen,2024-03-06,Low
+7,Trilokpuri,28.6234,77.3089,High,Open,690,Satellite,2024-03-07,Dengue
+8,Mangolpuri,28.7012,77.1023,Medium,Assigned,280,Citizen,2024-03-08,Malaria
+9,Mustafabad,28.7156,77.2789,High,Open,840,Satellite,2024-03-09,Cholera
+10,Badarpur,28.5023,77.2934,Low,Cleaned,120,Citizen,2024-03-10,Low
+11,Shahdara,28.6712,77.2923,Medium,Open,350,Citizen,2024-03-11,Dengue
+12,Narela,28.8523,77.0934,High,Open,960,Satellite,2024-03-12,Malaria
+13,Bawana,28.7934,77.0312,High,Open,1050,Satellite,2024-03-13,Cholera
+14,Dwarka Sector 23,28.5678,77.0234,Low,Cleaned,90,Citizen,2024-03-14,Low
+15,Kondli,28.6123,77.3234,Medium,Assigned,310,Citizen,2024-03-15,Dengue
+16,Rohini Sector 3,28.7234,77.1156,Medium,Open,270,Citizen,2024-03-16,Low
+17,Gokulpuri,28.6934,77.2812,High,Open,730,Satellite,2024-03-17,Dengue
+18,Seelampur,28.6578,77.2712,High,Open,810,Satellite,2024-03-18,Cholera
+19,Kirari Suleman Nagar,28.7456,77.0712,Medium,Assigned,390,Citizen,2024-03-19,Malaria
+20,Tughlakabad,28.4823,77.2612,Low,Cleaned,80,Citizen,2024-03-20,Low
